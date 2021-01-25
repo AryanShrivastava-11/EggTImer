@@ -7,7 +7,7 @@
   <img src="EggTimer_gif.gif" width="350" height="650"/>
   
 ## Installation:
-  Clone the repository to your Mac. 
-  Set the Active Scheme to EggTimer. 
-  Set any Simulator(preferably set iPhone 11)
+  * Clone the repository to your Mac.
+  * Set the Active Scheme to EggTimer. 
+  * Set any Simulator(preferably set iPhone 11)
   
